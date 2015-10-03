@@ -63,5 +63,5 @@ The admin can view how many taskers, users, tasks, etc from this panel.
 
 N.B:
 
-Click on the dashboard button to see the ratio of the number of the user, tasker, posted tasks against time(day).
+Click on the dashboard button to see the ratio of the number of the user, tasker, posted tasks against time(day) and also done task.
  
